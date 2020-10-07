@@ -5,6 +5,7 @@
 
 + [artiscii](//willnode.github.io/artiscii)
 + [deobfuscator](//willnode.github.io/deobfuscator)
++ [html-aware-translator](//willnode.github.io/html-aware-translator/)
 
 ### Asset-store related
 
@@ -24,4 +25,4 @@
 + [transtool](//willnode.github.io/transtool)
 + [webpack-explorer](//willnode.github.io/webpack-explorer)
 
-> Made with ❤ [willnode](//github.com/willnode)[@wellosoft.net](https://wellosoft.net)
+> [Made with ❤](https://github.com/willnode/willnode.github.io) [willnode](//github.com/willnode)[@wellosoft.net](https://wellosoft.net)
