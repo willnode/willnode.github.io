@@ -6,6 +6,7 @@
 + [artiscii](//willnode.github.io/artiscii)
 + [deobfuscator](//willnode.github.io/deobfuscator)
 + [html-aware-translator](//willnode.github.io/html-aware-translator/)
++ [url-deconstruct](https://willnode.github.io/url-deconstruct/)
 
 ### Asset-store related
 
@@ -13,7 +14,7 @@
 + [texdraw](//willnode.gitlab.io/texdraw/)
 + [demo](//willnode.github.io/demo/)
 
-### Archived (Long inactive which may or not work, or maybe just dummy stuff)
+### Archived (Long inactive which may not work, or maybe just dummy stuff)
 
 + [trunojoyo-assets](//willnode.github.io/trunojoyo-assets)
 + [wa-viewer](//willnode.github.io/wa-viewer)
