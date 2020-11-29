@@ -7,6 +7,7 @@
 + [deobfuscator](//willnode.github.io/deobfuscator)
 + [html-aware-translator](//willnode.github.io/html-aware-translator/)
 + [url-deconstruct](https://willnode.github.io/url-deconstruct/)
++ [yourlifeindots](//willnode.github.io/yourlifeindots)
 
 ### Asset-store related
 
