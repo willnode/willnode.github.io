@@ -3,6 +3,7 @@
 
 ### Toys I love
 
++ [webgen](//willnode.github.io/webgen) 
 + [artiscii](//willnode.github.io/artiscii)
 + [deobfuscator](//willnode.github.io/deobfuscator)
 + [html-aware-translator](//willnode.github.io/html-aware-translator/)
