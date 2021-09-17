@@ -3,9 +3,9 @@
 
 ### Toys I love
 
-+ [webgen](//willnode.github.io/webgen) 
-+ [artiscii](//willnode.github.io/artiscii)
-+ [deobfuscator](//willnode.github.io/deobfuscator)
++ [frontgen](//willnode.github.io/frontgen) &mdash; Clean Website Builder using CSS Frameworks 
++ [artiscii](//willnode.github.io/artiscii) &mdash; Artistic text creation made fun
++ [deobfuscator](//willnode.github.io/deobfuscator) &mdash; Online Javascript Deobfuscator
 + [html-aware-translator](//willnode.github.io/html-aware-translator/)
 + [url-deconstruct](https://willnode.github.io/url-deconstruct/)
 + [yourlifeindots](//willnode.github.io/yourlifeindots)
