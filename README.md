@@ -63,7 +63,7 @@
 
 ### Indonesian Content
 
-<details>
+<details markdown="1">
 <br>
             
 <summary>Because I'm indonesian</summary>
@@ -79,5 +79,7 @@
 
 
  </details>
+
+<br>
 
 > [Made with ❤](https://github.com/willnode/willnode.github.io) [willnode](//github.com/willnode)[@wellosoft.net](https://wellosoft.net)
