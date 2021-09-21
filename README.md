@@ -15,7 +15,7 @@
 
 + [DOM Cloud](https://domcloud.io/) (<a href="//github.com/domcloud/domcloud-io/">Documentation</a> <a href="//github.com/domcloud/">Repository</a>) &mdash; free and open-source hosting service for your web apps
 + [TEXDraw](//u3d.as/mFe) (<a href="//willnode.gitlab.io/texdraw/">Documentation</a> <a href="//gitlab.com/willnode/TEXDraw">Repository</a>) &mdash; Create any mathematical expressions in Unity with ease.
-+ [Engine4](//u3d.as/fdm) (<a href="//willnode.github.io/engine4-doc">Documentation</a> <a href="//gitlab.com/willnode/Engine4">Repository</a>) &mdash; A library to unlock game creation to a higher dimension
++ [Engine4](//u3d.as/fdm) (<a href="//willnode.github.io/engine4-doc">Documentation</a> <a href="//gitlab.com/willnode/Engine4">Repository</a>) &mdash; A library to unlock game creation to a higher dimension.
 
 ### Non Web Services or Libraries
 
@@ -30,7 +30,7 @@
 + [Vs2017-LayoutInGUI](https://github.com/willnode/Vs2017-LayoutInGUI) Generate CL Argument for Offline Visual Studio 2017 Installation.
 + [Forth Engine](https://github.com/forth-engine/forth-library) C++ Library to manipulate four dimensional objects via Cross Sectional Projection
 
-### Modified Forks
+### Modified Forks for Templates
 
 + [cors-anywhere](https://github.com/willnode/cors-anywhere) &mdash; CORS Anywhere modified for use in DOM Cloud
 + [Unity-TaskManager](https://github.com/willnode/Unity-TaskManager) &mdash; A further implementation of Coroutines in Unity3D
@@ -40,15 +40,13 @@
 
 (Long inactive which may not work, or maybe just dummy stuff)
 
-+ [demo](//willnode.github.io/demo/)
++ [demo](//willnode.github.io/demo/) &mdash; Playable WebGL demos
 + [wa-viewer](//willnode.github.io/wa-viewer) &mdash; View beautiful WhatsApp chat exports (using extracted backup in JSON format)
 + [cloudup](//willnode.github.io/cloudup) &mdash; Signed Image Upload to Cloudinary in pure Javascript.
 + [uas-private-stat](//willnode.github.io/uas-private-stat) &mdash; Custom statistics for Asset Store publisher sales and downloads
-+ [uas-public-stat](//willnode.github.io/uas-public-stat)
-+ [techno-web-project](//willnode.github.io/techno-web-project)
-+ [h4ck3d](//willnode.github.io/h4ck3d)
-+ [transtool](//willnode.github.io/transtool)
-+ [webpack-explorer](//willnode.github.io/webpack-explorer) 
++ [uas-public-stat](//willnode.github.io/uas-public-stat) &mdash; Custom statistics for Asset Store (no longer works)
++ [transtool](//willnode.github.io/transtool) &mdash; Google Translate-like tool (superseded by html-aware-translator)
++ [webpack-explorer](//willnode.github.io/webpack-explorer) Webpack v3 configuration generator (don't use it)
 + [bandit](//willnode.github.io/bandit) &mdash; The swiss army of hacking tools
 
 ### Archived non Web Services or Libraries 
@@ -70,6 +68,7 @@
 <summary>Because I'm indonesian</summary>
             
 + [trunojoyo-assets](//willnode.github.io/trunojoyo-assets) &mdash; Arsip Logo/Grafis UTM
++ [techno-web-project](//willnode.github.io/techno-web-project) &mdash; Bekas Lomba di Univ Soedirman
 + [lomba_untag](https://github.com/willnode/lomba_untag) &mdash; Bekas Lomba Website UNTAG. Juara 1
 + [PD](https://github.com/willnode/PD) &mdash; Koleksi Tugas Penambangan Data
 + [Sikat](https://github.com/willnode/sikat) &mdash; Sistem Informasi KAmpus Terpadu
