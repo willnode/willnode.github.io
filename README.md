@@ -54,7 +54,6 @@
 
 (Long inactive which may not work, or maybe just a dummy prototype)
 
-+ [forward-domain](https://github.com/willnode/forward-domain) &mdash; Forward Domains, completely free and open source.
 + [WebViewHook](https://github.com/willnode/WebViewHook) &mdash; Exposed Unity Editor WebView API
 + [CRM Toolkit](https://github.com/willnode/crm-toolkit) &mdash; Battery-Included CodeIgniter, React, Material-UI Template
 + [dom-chat](https://github.com/willnode/crm-toolkit) &mdash; Prototype for true peer to peer communication using TCP Punch Hole
