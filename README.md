@@ -1,5 +1,5 @@
 
-# List of repositories I made
+# List of repositories [I](https://github.com/willnode/) made
 
 ### Playable websites
 
@@ -20,6 +20,7 @@
 
 ### Non Web Services or Libraries
 
++ [secure-localhost](https://github.com/willnode/secure-localhost) &mdash; Proxy your specified localhost port to HTTPS, with automatic certificate installation.
 + [uas-gitlab-auth](https://github.com/willnode/uas-gitlab-auth) &mdash; Microservice to grant access to GitLab private repo using Asset Store Invoice API
 + [MeshDebugger](https://github.com/willnode/MeshDebugger) &mdash; First-class Mesh debugging tools for Unity
 + [Usink](https://github.com/willnode/Usink) &mdash; Supercharge Unity Editor with hotkeys and functionalities
