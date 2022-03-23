@@ -9,6 +9,7 @@
 + [html-aware-translator](//willnode.github.io/html-aware-translator/) ([Repository](//github.com/willnode/html-aware-translator)) &mdash; HTML-aware google translator tool
 + [url-deconstruct](https://willnode.github.io/url-deconstruct/) ([Repository](//github.com/willnode/url-deconstruct)) &mdash; Extract some information behind URL parameters
 + [yourlifeindots](//willnode.github.io/yourlifeindots) ([Repository](//github.com/willnode/yourlifeindots)) &mdash; Your life in a page of black dots (inspired by WBW)
++ [random-youtube](//willnode.github.io/random-youtube) ([Repository](//github.com/willnode/random-youtube)) &mdash; Go to a random YouTube video!
 
             
 ### Professional products
