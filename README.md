@@ -3,7 +3,7 @@
 
 ### Playable websites
 
-+ [frontgen](//willnode.github.io/frontgen) ([Repository](//github.com/willnode/frontgen)) &mdash; Clean Website Builder using CSS Frameworks 
++ [frontgen](//willnode.github.io/frontgen) ([Repository](//github.com/willnode/frontgen)) &mdash; Clean Website Builder using CSS Frameworks
 + [artiscii](//willnode.github.io/artiscii) ([Repository](//github.com/willnode/artiscii)) &mdash; Artistic text creation made fun (port of Ascii-Painter in JS)
 + [deobfuscator](//willnode.github.io/deobfuscator) ([Repository](//github.com/willnode/deobfuscator)) &mdash; Online Javascript Deobfuscator
 + [html-aware-translator](//willnode.github.io/html-aware-translator/) ([Repository](//github.com/willnode/html-aware-translator)) &mdash; HTML-aware google translator tool
@@ -11,10 +11,10 @@
 + [yourlifeindots](//willnode.github.io/yourlifeindots) ([Repository](//github.com/willnode/yourlifeindots)) &mdash; Your life in a page of black dots (inspired by WBW)
 + [random-youtube](//willnode.github.io/random-youtube) ([Repository](//github.com/willnode/random-youtube)) &mdash; Go to a random YouTube video!
 
-            
+
 ### Professional products
 
-+ [DOM Cloud](https://domcloud.io/) (<a href="//github.com/domcloud/domcloud-io/">Documentation</a> <a href="//github.com/domcloud/">Repository</a>) &mdash; free and open-source hosting service for your web apps
++ [DOM Cloud](https://domcloud.co/) (<a href="//github.com/domcloud/domcloud/">Documentation</a> <a href="//github.com/domcloud/">Repository</a>) &mdash; free and open-source hosting service for your web apps
 + [Forward Domain](https://forwarddomain.net/) (<a href="//github.com/willnode/forward-domain/">Repository</a>) &mdash; free and open-source domain forwarder using 301 HTTP(S) redirects
 + [TEXDraw](//u3d.as/mFe) (<a href="//willnode.gitlab.io/texdraw/">Documentation</a> <a href="//gitlab.com/willnode/TEXDraw">Repository</a>) &mdash; Create any mathematical expressions in Unity with ease.
 + [Engine4](//u3d.as/fdm) (<a href="//willnode.github.io/engine4-doc">Documentation</a> <a href="//gitlab.com/willnode/Engine4">Repository</a>) &mdash; A library to unlock game creation to a higher dimension.
@@ -39,7 +39,7 @@
 + [Unity-TaskManager](https://github.com/willnode/Unity-TaskManager) &mdash; A further implementation of Coroutines in Unity3D
 + [ci4-admin-lte](https://github.com/willnode/ci4-admin-lte) &mdash; CodeIgniter4 with Admin LTE 3 Template
 
-### Archived playable websites 
+### Archived playable websites
 
 (Long inactive which may not work, or maybe just dummy stuff)
 
@@ -52,7 +52,7 @@
 + [webpack-explorer](//willnode.github.io/webpack-explorer) Webpack v3 configuration generator (don't use it)
 + [bandit](//willnode.github.io/bandit) &mdash; The swiss army of hacking tools
 
-### Archived non Web Services or Libraries 
+### Archived non Web Services or Libraries
 
 (Long inactive which may not work, or maybe just a dummy prototype)
 
@@ -66,9 +66,9 @@
 
 <details markdown="1">
 <br>
-            
+
 <summary>Because I'm indonesian</summary>
-            
+
 + [trunojoyo-assets](//willnode.github.io/trunojoyo-assets) &mdash; Arsip Logo/Grafis UTM
 + [techno-web-project](//willnode.github.io/techno-web-project) &mdash; Bekas Lomba di Univ Soedirman
 + [lomba_untag](https://github.com/willnode/lomba_untag) &mdash; Bekas Lomba Website UNTAG. Juara 1
