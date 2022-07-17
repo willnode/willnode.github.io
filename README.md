@@ -3,6 +3,7 @@
 
 ### Playable websites
 
++ [forger](//willnode.github.io/forger) ([Repository](//github.com/willnode/forger)) &mdash; (WIP) SPA Full-Client Builder based on Svelte
 + [frontgen](//willnode.github.io/frontgen) ([Repository](//github.com/willnode/frontgen)) &mdash; Clean Website Builder using CSS Frameworks
 + [artiscii](//willnode.github.io/artiscii) ([Repository](//github.com/willnode/artiscii)) &mdash; Artistic text creation made fun (port of Ascii-Painter in JS)
 + [deobfuscator](//willnode.github.io/deobfuscator) ([Repository](//github.com/willnode/deobfuscator)) &mdash; Online Javascript Deobfuscator
