@@ -15,8 +15,9 @@
 
 ### Professional products
 
-+ [DOM Cloud](https://domcloud.co/) (<a href="//github.com/domcloud/domcloud/">Documentation</a> <a href="//github.com/domcloud/">Repository</a>) &mdash; free and open-source hosting service for your web apps
-+ [Forward Domain](https://forwarddomain.net/) (<a href="//github.com/willnode/forward-domain/">Repository</a>) &mdash; free and open-source domain forwarder using 301 HTTP(S) redirects
++ [DOM Cloud](https://domcloud.co/) (<a href="//github.com/domcloud/domcloud/">Documentation</a> <a href="//github.com/domcloud/">Repository</a>) &mdash; Free hosting service for your web apps
++ [Forward Domain](https://forwarddomain.net/) (<a href="//github.com/willnode/forward-domain/">Repository</a>) &mdash; Free and open-source domain forwarder using 301 HTTP(S) redirects
++ [Benerin.co](https://benerin.co/) (<a href="//github.com/willnode/benerin-web/">Repository</a>) &mdash; Free Indonesian spell-proofing website
 + [TEXDraw](//u3d.as/mFe) (<a href="//willnode.gitlab.io/texdraw/">Documentation</a> <a href="//gitlab.com/willnode/TEXDraw">Repository</a>) &mdash; Create any mathematical expressions in Unity with ease.
 + [Engine4](//u3d.as/fdm) (<a href="//willnode.github.io/engine4-doc">Documentation</a> <a href="//gitlab.com/willnode/Engine4">Repository</a>) &mdash; A library to unlock game creation to a higher dimension.
 
@@ -70,6 +71,7 @@
 
 <summary>Because I'm indonesian</summary>
 
++ [madura.wellosoft.net](//madura.wellosoft.net) &mdash; Madurese-Indonesian translator (my bachelor thesis)
 + [trunojoyo-assets](//willnode.github.io/trunojoyo-assets) &mdash; Arsip Logo/Grafis UTM
 + [techno-web-project](//willnode.github.io/techno-web-project) &mdash; Bekas Lomba di Univ Soedirman
 + [lomba_untag](https://github.com/willnode/lomba_untag) &mdash; Bekas Lomba Website UNTAG. Juara 1
