@@ -3,14 +3,14 @@
 
 ### Playable websites
 
-+ [forger](//willnode.github.io/forger) ([Repository](//github.com/willnode/forger)) &mdash; (WIP) SPA Full-Client Builder based on Svelte
-+ [frontgen](//willnode.github.io/frontgen) ([Repository](//github.com/willnode/frontgen)) &mdash; Clean Website Builder using CSS Frameworks
-+ [artiscii](//willnode.github.io/artiscii) ([Repository](//github.com/willnode/artiscii)) &mdash; Artistic text creation made fun (port of Ascii-Painter in JS)
-+ [deobfuscator](//willnode.github.io/deobfuscator) ([Repository](//github.com/willnode/deobfuscator)) &mdash; Online Javascript Deobfuscator
-+ [html-aware-translator](//willnode.github.io/html-aware-translator/) ([Repository](//github.com/willnode/html-aware-translator)) &mdash; HTML-aware google translator tool
-+ [url-deconstruct](https://willnode.github.io/url-deconstruct/) ([Repository](//github.com/willnode/url-deconstruct)) &mdash; Extract some information behind URL parameters
-+ [yourlifeindots](//willnode.github.io/yourlifeindots) ([Repository](//github.com/willnode/yourlifeindots)) &mdash; Your life in a page of black dots (inspired by WBW)
-+ [random-youtube](//willnode.github.io/random-youtube) ([Repository](//github.com/willnode/random-youtube)) &mdash; Go to a random YouTube video!
++ [forger](https://willnode.github.io/forger) ([Repository](https://github.com/willnode/forger)) &mdash; (WIP) SPA Full-Client Builder based on Svelte
++ [frontgen](https://willnode.github.io/frontgen) ([Repository](https://github.com/willnode/frontgen)) &mdash; Clean Website Builder using CSS Frameworks
++ [artiscii](https://willnode.github.io/artiscii) ([Repository](https://github.com/willnode/artiscii)) &mdash; Artistic text creation made fun (port of Ascii-Painter in JS)
++ [deobfuscator](https://willnode.github.io/deobfuscator) ([Repository](https://github.com/willnode/deobfuscator)) &mdash; Online Javascript Deobfuscator
++ [html-aware-translator](https://willnode.github.io/html-aware-translator/) ([Repository](https://github.com/willnode/html-aware-translator)) &mdash; HTML-aware google translator tool
++ [url-deconstruct](https://willnode.github.io/url-deconstruct/) ([Repository](https://github.com/willnode/url-deconstruct)) &mdash; Extract some information behind URL parameters
++ [yourlifeindots](https://willnode.github.io/yourlifeindots) ([Repository](https://github.com/willnode/yourlifeindots)) &mdash; Your life in a page of black dots (inspired by WBW)
++ [random-youtube](https://willnode.github.io/random-youtube) ([Repository](https://github.com/willnode/random-youtube)) &mdash; Go to a random YouTube video!
 
 
 ### Professional products
@@ -18,11 +18,12 @@
 + [DOM Cloud](https://domcloud.co/) (<a href="//github.com/domcloud/domcloud/">Documentation</a> <a href="//github.com/domcloud/">Repository</a>) &mdash; Free hosting service for your web apps
 + [Forward Domain](https://forwarddomain.net/) (<a href="//github.com/willnode/forward-domain/">Repository</a>) &mdash; Free and open-source domain forwarder using 301 HTTP(S) redirects
 + [Benerin.co](https://benerin.co/) (<a href="//github.com/willnode/benerin-web/">Repository</a>) &mdash; Free Indonesian spell-proofing website
-+ [TEXDraw](//u3d.as/mFe) (<a href="//willnode.gitlab.io/texdraw/">Documentation</a> <a href="//gitlab.com/willnode/TEXDraw">Repository</a>) &mdash; Create any mathematical expressions in Unity with ease.
-+ [Engine4](//u3d.as/fdm) (<a href="//willnode.github.io/engine4-doc">Documentation</a> <a href="//gitlab.com/willnode/Engine4">Repository</a>) &mdash; A library to unlock game creation to a higher dimension.
++ [TEXDraw](https://u3d.as/mFe) (<a href="//willnode.gitlab.io/texdraw/">Documentation</a> <a href="//gitlab.com/willnode/TEXDraw">Repository</a>) &mdash; Create any mathematical expressions in Unity with ease.
++ [Engine4](https://u3d.as/fdm) (<a href="//willnode.github.io/engine4-doc">Documentation</a> <a href="//gitlab.com/willnode/Engine4">Repository</a>) &mdash; A library to unlock game creation to a higher dimension.
 
 ### Non Web Services or Libraries
 
++ [screend](https://github.com/willnode/screend) &mdash; Exploiting GNU screen to be used like sysdaemons
 + [secure-localhost](https://github.com/willnode/secure-localhost) &mdash; Proxy your specified localhost port to HTTPS, with automatic certificate installation.
 + [uas-gitlab-auth](https://github.com/willnode/uas-gitlab-auth) &mdash; Microservice to grant access to GitLab private repo using Asset Store Invoice API
 + [MeshDebugger](https://github.com/willnode/MeshDebugger) &mdash; First-class Mesh debugging tools for Unity
@@ -45,14 +46,14 @@
 
 (Long inactive which may not work, or maybe just dummy stuff)
 
-+ [demo](//willnode.github.io/demo/) &mdash; Playable WebGL demos
-+ [wa-viewer](//willnode.github.io/wa-viewer) &mdash; View beautiful WhatsApp chat exports (using extracted backup in JSON format)
-+ [cloudup](//willnode.github.io/cloudup) &mdash; Signed Image Upload to Cloudinary in pure Javascript.
-+ [uas-private-stat](//willnode.github.io/uas-private-stat) &mdash; Custom statistics for Asset Store publisher sales and downloads
-+ [uas-public-stat](//willnode.github.io/uas-public-stat) &mdash; Custom statistics for Asset Store (no longer works)
-+ [transtool](//willnode.github.io/transtool) &mdash; Google Translate-like tool (superseded by html-aware-translator)
-+ [webpack-explorer](//willnode.github.io/webpack-explorer) Webpack v3 configuration generator (don't use it)
-+ [bandit](//willnode.github.io/bandit) &mdash; The swiss army of hacking tools
++ [demo](https://willnode.github.io/demo/) &mdash; Playable WebGL demos
++ [wa-viewer](https://willnode.github.io/wa-viewer) &mdash; View beautiful WhatsApp chat exports (using extracted backup in JSON format)
++ [cloudup](https://willnode.github.io/cloudup) &mdash; Signed Image Upload to Cloudinary in pure Javascript.
++ [uas-private-stat](https://willnode.github.io/uas-private-stat) &mdash; Custom statistics for Asset Store publisher sales and downloads
++ [uas-public-stat](https://willnode.github.io/uas-public-stat) &mdash; Custom statistics for Asset Store (no longer works)
++ [transtool](https://willnode.github.io/transtool) &mdash; Google Translate-like tool (superseded by html-aware-translator)
++ [webpack-explorer](https://willnode.github.io/webpack-explorer) Webpack v3 configuration generator (don't use it)
++ [bandit](https://willnode.github.io/bandit) &mdash; The swiss army of hacking tools
 
 ### Archived non Web Services or Libraries
 
@@ -71,9 +72,9 @@
 
 <summary>Because I'm indonesian</summary>
 
-+ [madura.wellosoft.net](//madura.wellosoft.net) &mdash; Madurese-Indonesian translator (my bachelor thesis)
-+ [trunojoyo-assets](//willnode.github.io/trunojoyo-assets) &mdash; Arsip Logo/Grafis UTM
-+ [techno-web-project](//willnode.github.io/techno-web-project) &mdash; Bekas Lomba di Univ Soedirman
++ [madura.wellosoft.net](https://madura.wellosoft.net) &mdash; Madurese-Indonesian translator (my bachelor thesis)
++ [trunojoyo-assets](https://willnode.github.io/trunojoyo-assets) &mdash; Arsip Logo/Grafis UTM
++ [techno-web-project](https://willnode.github.io/techno-web-project) &mdash; Bekas Lomba di Univ Soedirman
 + [lomba_untag](https://github.com/willnode/lomba_untag) &mdash; Bekas Lomba Website UNTAG. Juara 1
 + [PD](https://github.com/willnode/PD) &mdash; Koleksi Tugas Penambangan Data
 + [Sikat](https://github.com/willnode/sikat) &mdash; Sistem Informasi KAmpus Terpadu
@@ -87,4 +88,4 @@
 
 <br>
 
-> [Made with ❤](https://github.com/willnode/willnode.github.io) [willnode](//github.com/willnode)[@wellosoft.net](https://wellosoft.net)
+> [Made with ❤](https://github.com/willnode/willnode.github.io) [willnode](https://github.com/willnode)[@wellosoft.net](https://wellosoft.net)
