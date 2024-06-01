@@ -3,6 +3,7 @@
 
 ### Playable websites
 
++ [data-modifier](https://willnode.github.io/data-modifier/) ([Repository](https://github.com/willnode/data-modifier)) &mdash; Transform textual data between formats with JS function in between
 + [forger](https://willnode.github.io/forger) ([Repository](https://github.com/willnode/forger)) &mdash; (WIP) SPA Full-Client Builder based on Svelte
 + [frontgen](https://willnode.github.io/frontgen) ([Repository](https://github.com/willnode/frontgen)) &mdash; Clean Website Builder using CSS Frameworks
 + [artiscii](https://willnode.github.io/artiscii) ([Repository](https://github.com/willnode/artiscii)) &mdash; Artistic text creation made fun (port of Ascii-Painter in JS)
@@ -17,6 +18,7 @@
 
 + [DOM Cloud](https://domcloud.co/) (<a href="//github.com/domcloud/domcloud/">Documentation</a> <a href="//github.com/domcloud/">Repository</a>) &mdash; Free hosting service for your web apps
 + [Forward Domain](https://forwarddomain.net/) (<a href="//github.com/willnode/forward-domain/">Repository</a>) &mdash; Free and open-source domain forwarder using 301 HTTP(S) redirects
++ [Gentar.dev](https://gentar.dev/) &mdash; Free / WIP MySQL or PosgreSQL data analyzer and editor with LLM 
 + [Benerin.co](https://benerin.co/) (<a href="//github.com/willnode/benerin-web/">Repository</a>) &mdash; Free Indonesian spell-proofing website
 + [TEXDraw](https://u3d.as/mFe) (<a href="//willnode.gitlab.io/texdraw/">Documentation</a> <a href="//gitlab.com/willnode/TEXDraw">Repository</a>) &mdash; Create any mathematical expressions in Unity with ease.
 + [Engine4](https://u3d.as/fdm) (<a href="//willnode.github.io/engine4-doc">Documentation</a> <a href="//gitlab.com/willnode/Engine4">Repository</a>) &mdash; A library to unlock game creation to a higher dimension.
