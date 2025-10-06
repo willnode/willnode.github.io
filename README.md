@@ -4,6 +4,7 @@
 ### Playable websites
 
 + [zone-editor](https://willnode.github.io/zone-editor/) ([Repository](https://github.com/willnode/zone-editor)) &mdash; A JS Library with a demo website for editing BIND9 zone file
++ [crash-analyzer](https://willnode.github.io/redox-crash-analyzer/) ([Repository](https://github.com/willnode/redox-crash-analyzer)) &mdash; Analyze Redox OS Program Crash / Page Fault
 + [pkgar-analyzer](https://willnode.github.io/pkgar-analyzer/) ([Repository](https://github.com/willnode/pkgar-analyzer)) &mdash; Analyze Redox OS [PKGAR Archive Format](https://gitlab.redox-os.org/redox-os/pkgar/) online
 + [data-modifier](https://willnode.github.io/data-modifier/) ([Repository](https://github.com/willnode/data-modifier)) &mdash; Transform textual data between formats with JS function in between
 + [forger](https://willnode.github.io/forger) ([Repository](https://github.com/willnode/forger)) &mdash; (WIP) SPA Full-Client Builder based on Svelte
