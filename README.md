@@ -1,8 +1,9 @@
 
-# List of repositories [I](https://github.com/willnode/) made
+# List of repositories [I've made](https://github.com/willnode/)
 
 ### Playable websites
 
++ [qemu-config](https://willnode.github.io/qemu-config/) ([Repository](https://github.com/willnode/qemu-config)) &mdash; An online QEMU Command Line Generator
 + [zone-editor](https://willnode.github.io/zone-editor/) ([Repository](https://github.com/willnode/zone-editor)) &mdash; A JS Library with a demo website for editing BIND9 zone file
 + [crash-analyzer](https://willnode.github.io/redox-crash-analyzer/) ([Repository](https://github.com/willnode/redox-crash-analyzer)) &mdash; Analyze Redox OS Program Crash / Page Fault
 + [pkgar-analyzer](https://willnode.github.io/pkgar-analyzer/) ([Repository](https://github.com/willnode/pkgar-analyzer)) &mdash; Analyze Redox OS [PKGAR Archive Format](https://gitlab.redox-os.org/redox-os/pkgar/) online
