@@ -27,6 +27,32 @@
 + [TEXDraw](https://u3d.as/mFe) (<a href="//willnode.gitlab.io/texdraw/">Documentation</a> <a href="//gitlab.com/willnode/TEXDraw">Repository</a>) &mdash; Create any mathematical expressions in Unity with ease.
 + [Engine4](https://u3d.as/fdm) (<a href="//willnode.github.io/engine4-doc">Documentation</a> <a href="//gitlab.com/willnode/Engine4">Repository</a>) &mdash; A library to unlock game creation to a higher dimension.
 
+### Fork that exists to support Redox OS
+
++ [Rustysd](https://github.com/willnode/rustysd)
++ [Htop](https://github.com/willnode/htop)
++ [Zig](https://github.com/willnode/zig)
++ [Go](https://github.com/willnode/go)
++ Servo Projects - Redox OS fork uses these as patches to:
+  + [Mozjs](https://github.com/willnode/mozjs)
+  + [Webrender](https://github.com/willnode/webrender)
+  + [Surfman](https://github.com/willnode/surfman)
+  + [IPC-Channel](https://github.com/willnode/ipc-channel)
+  + [Gaol](https://github.com/willnode/gaol)
+  + [Libz-sys](https://github.com/willnode/libz-sys/tree/servo)
++ Wasmtime Projects
+  + [Wasmtime](https://github.com/willnode/wasmtime)
+  + [Cap-Std](https://github.com/willnode/cap-std)
+  + [System-Interface](https://github.com/willnode/system-interface)
+  + [Fs-set-times](https://github.com/willnode/fs-set-times)
+  + [Region-rs](https://github.com/willnode/region-rs)
++ WIP / Barely patched
+  + [Ungoogled Chromium](https://github.com/willnode/ungoogled-chromium-redox) - WIP
+  + [OpenJDK](https://github.com/willnode/jdk) - WIP
+  + Quinn-UDP
++ Already patched to upstream, will be removed once nobody uses it
+  + [fs4-rs](https://github.com/willnode/fs4-rs)
+
 ### Non Web Services or Libraries
 
 + [screend](https://github.com/willnode/screend) &mdash; Exploiting GNU screen to be used like sysdaemons
