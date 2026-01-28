@@ -34,21 +34,25 @@
 + [Zig](https://github.com/willnode/zig)
 + [Go](https://github.com/willnode/go)
 + Servo Projects - Redox OS fork uses these as patches to:
-  + [Mozjs](https://github.com/willnode/mozjs)
+  + [Mozjs](https://github.com/willnode/mozjs) - Used by Firefox too
   + [Webrender](https://github.com/willnode/webrender)
   + [Surfman](https://github.com/willnode/surfman)
   + [IPC-Channel](https://github.com/willnode/ipc-channel)
   + [Gaol](https://github.com/willnode/gaol)
   + [Libz-sys](https://github.com/willnode/libz-sys/tree/servo)
++ Firefox
+  + [Neqo](https://github.com/willnode/neqo)
 + Wasmtime Projects
   + [Wasmtime](https://github.com/willnode/wasmtime)
   + [Cap-Std](https://github.com/willnode/cap-std)
   + [System-Interface](https://github.com/willnode/system-interface)
   + [Fs-set-times](https://github.com/willnode/fs-set-times)
   + [Region-rs](https://github.com/willnode/region-rs)
+  + [Rustix](https://github.com/willnode/rustix/tree/redox-at)
+  + [Libc](https://github.com/willnode/libc/tree/redox-at)
 + WIP / Barely patched
-  + [Ungoogled Chromium](https://github.com/willnode/ungoogled-chromium-redox) - WIP
-  + [OpenJDK](https://github.com/willnode/jdk) - WIP
+  + [Ungoogled Chromium](https://github.com/willnode/ungoogled-chromium-redox)
+  + [OpenJDK](https://github.com/willnode/jdk)
   + Quinn-UDP
 + Already patched to upstream, will be removed once nobody uses it
   + [fs4-rs](https://github.com/willnode/fs4-rs)
